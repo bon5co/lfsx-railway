@@ -14,7 +14,7 @@
 #    could not write to it.
 #
 # The binary and its behaviour are otherwise untouched.
-FROM ghcr.io/ferrlabs/lfsx:1.14.1@sha256:d84342f392884f924956190646418ab909581bbdb326c5e46e4839d8ef6cb061
+FROM ghcr.io/ferrlabs/lfsx:1.26.54@sha256:0e4066149eca8a53674575d412424f20bb086d0af9c1a761e87612e8e902515a
 
 USER 0:0
 ENV LFSX_AUTH=github \

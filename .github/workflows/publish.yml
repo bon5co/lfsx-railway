@@ -25,5 +25,5 @@ jobs:
           push: true
           provenance: false
           tags: |
-            ghcr.io/bon5co/lfsx-railway:1.14.1
+            ghcr.io/bon5co/lfsx-railway:1.26.54
             ghcr.io/bon5co/lfsx-railway:latest
